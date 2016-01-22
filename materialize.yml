@@ -1,14 +1,14 @@
 name: Materialize
-version: 2.0.1
-description: Materialize Morfy theme
+version: 3.0.0
+description: Materialize Fansoro theme
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
   url: https://github.com/Awilum
-homepage: https://github.com/morfy-cms/morfy-theme-materialize
-download: https://github.com/morfy-cms/morfy-theme-materialize/releases
-bugs: https://github.com/morfy-cms/morfy-theme-materialize/issues
-preview: https://github.com/morfy-cms/morfy-theme-materialize/raw/master/screenshot.png
+homepage: https://github.com/fansoro/fansoro-theme-materialize
+download: https://github.com/fansoro/fansoro-theme-materialize/releases
+bugs: https://github.com/fansoro/fansoro-theme-materialize/issues
+preview: https://github.com/fansoro/fansoro-theme-materialize/raw/master/screenshot.png
 license: MIT
 
 # Theme settings
